@@ -10,9 +10,13 @@ Función que calcula la edad a partir de una fecha de nacimiento en formato YYYY
 
 
 
+```
+
 npm install
 
 npx tsc
 
 node dist/app.js
+
+```
 
