@@ -1,0 +1,16 @@
+{
+  "name": "actividad-practica-26",
+  "version": "1.0.0",
+  "description": "Práctica del módulo 26: calcular edad con TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carmen Rocha",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
